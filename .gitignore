@@ -2,8 +2,8 @@
 /node_modules
 
 # Parcel's cache and generated dist directory
-.cache
-dist
+/.parcel-cache
+/dist
 
 # OS generated files
 .DS_Store
