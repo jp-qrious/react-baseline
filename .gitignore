@@ -1,0 +1,20 @@
+# Node modules and npm dependencies
+/node_modules
+
+# Parcel's cache and generated dist directory
+.cache
+dist
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor folders and files
+.vscode/
+.idea/
+
+# TypeScript generated files
+*.tsbuildinfo
+
+# dotenv environment variable files
+.env
